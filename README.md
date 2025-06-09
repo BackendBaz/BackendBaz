@@ -37,10 +37,8 @@
 </p>
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/YOUR_ID)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:emadi.henker404@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/amir_hossein_emadi_2000)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=BackendBaz&style=flat-square&color=green" alt="Profile Views">
