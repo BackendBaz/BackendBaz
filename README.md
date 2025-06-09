@@ -43,6 +43,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=green" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=BackendBaz&style=flat-square&color=green" alt="Profile Views">
   <p>⚡ Fun fact: I believe clean code is more art than science!</p>
 </div>
