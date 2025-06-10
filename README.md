@@ -24,7 +24,7 @@
 
 ## 🧭 Personal Interests
 - ✈️ Travelling & exploring new cultures
-- 🧩 Solving complex problems on LeetCode & Codewars
+- 🧩 Solving complex problems on [**Codewars**](https://www.codewars.com)
 - 🏗️ Designing robust and scalable API architectures
 - 📚 Reading technical documentation & software design patterns
 - ♟️ Playing strategic board games in free time
@@ -41,6 +41,5 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/amir_hossein_emadi_2000)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BackendBaz&style=flat-square&color=green" alt="Profile Views">
   <p>⚡ Fun fact: I believe clean code is more art than science!</p>
 </div>
