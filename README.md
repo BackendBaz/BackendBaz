@@ -32,7 +32,7 @@
 ## 📈 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BackendBaz&layout=compact&theme=algolia&langs_count=6" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BackendBaz&layout=compact&theme=algolia&langs_count=1" alt="Top Languages" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BackendBaz&theme=algolia" alt="GitHub Streak" height="165">
 </p>
 
