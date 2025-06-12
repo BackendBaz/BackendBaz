@@ -24,7 +24,7 @@
 
 ## 🧭 Personal Interests
 - ✈️ Travelling & exploring new cultures
-- 🧩 Solving complex problems on [**Codewars**](https://www.codewars.com)
+- 🧩 Solving complex problems on [**Codewars**](https://www.codewars.com) and **[Exercism](https://exercism.org)**
 - 🏗️ Designing robust and scalable API architectures
 - 📚 Reading technical documentation & software design patterns
 - ♟️ Playing strategic board games in free time
